@@ -1,6 +1,0 @@
-Invoking command in '/home/ros/ws_microros/build/asrs_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros/ws_microros/src/asrs_controller -DCMAKE_INSTALL_PREFIX=/home/ros/ws_microros/install/asrs_controller
-Invoked command in '/home/ros/ws_microros/build/asrs_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros/ws_microros/src/asrs_controller -DCMAKE_INSTALL_PREFIX=/home/ros/ws_microros/install/asrs_controller
-Invoking command in '/home/ros/ws_microros/build/asrs_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros/ws_microros/build/asrs_controller -- -j16 -l16
-Invoked command in '/home/ros/ws_microros/build/asrs_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros/ws_microros/build/asrs_controller -- -j16 -l16
-Invoking command in '/home/ros/ws_microros/build/asrs_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros/ws_microros/build/asrs_controller
-Invoked command in '/home/ros/ws_microros/build/asrs_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros/ws_microros/build/asrs_controller

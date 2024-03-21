@@ -1,4 +1,0 @@
-Invoking command in '/home/ros/ws_microros/build/asrs_gripper': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros/ws_microros/build/asrs_gripper -- -j12 -l12
-Invoked command in '/home/ros/ws_microros/build/asrs_gripper' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ros/ws_microros/build/asrs_gripper -- -j12 -l12
-Invoking command in '/home/ros/ws_microros/build/asrs_gripper': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros/ws_microros/build/asrs_gripper
-Invoked command in '/home/ros/ws_microros/build/asrs_gripper' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ros/ws_microros/build/asrs_gripper

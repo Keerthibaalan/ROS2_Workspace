@@ -1,2 +1,0 @@
-Invoking command in '/home/ros/ws_microros/build/asrs_moveit': /usr/bin/cmake /home/ros/ws_microros/src/asrs_moveit -DCMAKE_INSTALL_PREFIX=/home/ros/ws_microros/install/asrs_moveit
-Invoked command in '/home/ros/ws_microros/build/asrs_moveit' returned '1': /usr/bin/cmake /home/ros/ws_microros/src/asrs_moveit -DCMAKE_INSTALL_PREFIX=/home/ros/ws_microros/install/asrs_moveit

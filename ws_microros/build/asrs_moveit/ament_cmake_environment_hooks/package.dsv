@@ -1,4 +1,0 @@
-source;share/asrs_moveit/local_setup.bash
-source;share/asrs_moveit/local_setup.dsv
-source;share/asrs_moveit/local_setup.sh
-source;share/asrs_moveit/local_setup.zsh
