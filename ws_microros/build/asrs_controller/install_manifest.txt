@@ -1,0 +1,17 @@
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/config/asrs_controller.yaml
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/launch/controller.launch.py
+/home/ros/ws_microros/install/asrs_controller/share/ament_index/resource_index/package_run_dependencies/asrs_controller
+/home/ros/ws_microros/install/asrs_controller/share/ament_index/resource_index/parent_prefix_path/asrs_controller
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/environment/ament_prefix_path.sh
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/environment/ament_prefix_path.dsv
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/environment/path.sh
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/environment/path.dsv
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/local_setup.bash
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/local_setup.sh
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/local_setup.zsh
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/local_setup.dsv
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/package.dsv
+/home/ros/ws_microros/install/asrs_controller/share/ament_index/resource_index/packages/asrs_controller
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/cmake/asrs_controllerConfig.cmake
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/cmake/asrs_controllerConfig-version.cmake
+/home/ros/ws_microros/install/asrs_controller/share/asrs_controller/package.xml

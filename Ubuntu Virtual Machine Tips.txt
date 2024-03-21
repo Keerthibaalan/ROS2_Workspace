@@ -1,0 +1,29 @@
+Step1: sudo apt update -y && sudo apt upgrade -y
+Step2: sudo apt install -y build-essential dkms linux-headers-$(uname -r)
+Step3: Devices-> Insert Guest Additions CD Image -> Run
+If it does not run automatically, Open the CD Drive, Right click -> Open in Terminal, ./autorun.sh
+Step4: Enable Shared Clipboard and Drag&Drop from Devices
+
+To install Terminator:
+sudo apt-get update
+sudo apt-get install terminator
+
+To refresh Snap-Store
+snap-store --quit
+sudo snap refresh
+
+To increase Disk Size in Hyper-V
+https://www.nakivo.com/blog/increase-disk-size-hyper-v-complete-guide/
+
+Ubuntu Command Line:
+$ sudo apt install cloud-guest-utils
+$ sudo fdisk -l
+$ sudo growpart /dev/sda 1 # NB: space between `partition` (/dev/sda) and `id` (1)!
+$ sudo resize2fs /dev/sda1 # NB: *no space* between partition and id!
+
+To uninstall Hyper-V
+Open Command Prompt as administrator.
+In the Command Prompt window, type the following command and press Enter:
+	dism /online /disable-feature /featurename:Microsoft-hyper-v-all
+Upon execution, the DISM tool will disable Hyper-V and show the operation completed successfully message to indicate successful execution.
+Type exit, press Enter to close the Command Prompt, and restart your PC.

@@ -1,0 +1,4 @@
+source;share/asrs_description/local_setup.bash
+source;share/asrs_description/local_setup.dsv
+source;share/asrs_description/local_setup.sh
+source;share/asrs_description/local_setup.zsh

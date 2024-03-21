@@ -1,0 +1,20 @@
+[0.068s] Invoking command in '/home/ros/ws_microros/build/asrs_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros/ws_microros/build/asrs_description -- -j16 -l16
+[0.080s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.155s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.194s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.194s] -- Added test 'lint_cmake' to check CMake code style
+[0.194s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.195s] -- Added test 'xmllint' to check XML markup files
+[0.195s] -- Configuring done
+[0.202s] -- Generating done
+[0.202s] -- Build files have been written to: /home/ros/ws_microros/build/asrs_description
+[0.222s] Invoked command in '/home/ros/ws_microros/build/asrs_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ros/ws_microros/build/asrs_description -- -j16 -l16
+[0.237s] Invoking command in '/home/ros/ws_microros/build/asrs_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros/ws_microros/build/asrs_description
+[0.245s] -- Install configuration: ""
+[0.245s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.245s]   file INSTALL cannot find
+[0.245s]   "/home/ros/ws_microros/src/asrs_description/config": No such file or
+[0.245s]   directory.
+[0.245s] 
+[0.245s] [0m
+[0.286s] Invoked command in '/home/ros/ws_microros/build/asrs_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ros/ws_microros/build/asrs_description

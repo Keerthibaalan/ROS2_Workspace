@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<robot name="asrs_gripper" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <xacro:include filename="$(find asrs_gripper)/urdf/asrs_gripper.urdf.xacro"/>
+
+    <link name="world" />
+
+    <xacro:asrs_gripper />
+
+    <joint name="joint_4" type="revolute">
+        <origin xyz="0.0 0.0 0" rpy="0.0 0.0 0.0"/>
+        <parent link="world"/>
+        <child link="fixture"/>
+        <axis xyz="1 0 0"/>
+        <limit lower="3.14" upper="-3.14" effort="0.0" velocity="0.0"/>
+    </joint>
+
+</robot>

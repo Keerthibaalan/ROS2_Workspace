@@ -1,0 +1,47 @@
+-- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ros/ws_microros/build/asrs_gripper
+-- Install configuration: ""
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/config
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/config/display.rviz
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/config/joint_names_gripper.yaml
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/launch
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/launch/gazebo.launch.py
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/launch/.vscode
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/launch/.vscode/settings.json
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/launch/.vscode/c_cpp_properties.json
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/launch/rviz.launch.py
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes/right_finger.STL
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes/left_knuckle.STL
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes/driver.STL
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes/base.STL
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes/right_knuckle.STL
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes/driven.STL
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/meshes/left_finger.STL
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/urdf
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/urdf/gripper.xacro
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/urdf/gripper.csv
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/urdf/gripper_transmissions.xacro
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/urdf/asrs_gripper.urdf.xacro
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/ament_index/resource_index/package_run_dependencies/asrs_gripper
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/ament_index/resource_index/parent_prefix_path/asrs_gripper
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/environment/ament_prefix_path.sh
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/environment/path.sh
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/environment/path.dsv
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/local_setup.bash
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/local_setup.sh
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/local_setup.zsh
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/local_setup.dsv
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/package.dsv
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/ament_index/resource_index/packages/asrs_gripper
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/cmake/asrs_gripperConfig.cmake
+-- Up-to-date: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/cmake/asrs_gripperConfig-version.cmake
+-- Installing: /home/ros/ws_microros/install/asrs_gripper/share/asrs_gripper/package.xml
