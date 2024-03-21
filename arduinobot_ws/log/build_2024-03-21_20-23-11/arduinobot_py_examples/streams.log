@@ -1,0 +1,61 @@
+[0.457s] Invoking command in '/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/src/arduinobot_py_examples': AMENT_PREFIX_PATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
+[0.602s] running egg_info
+[0.602s] creating ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info
+[0.602s] writing ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/PKG-INFO
+[0.602s] writing dependency_links to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/dependency_links.txt
+[0.602s] writing entry points to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/entry_points.txt
+[0.602s] writing requirements to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/requires.txt
+[0.602s] writing top-level names to ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/top_level.txt
+[0.602s] writing manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.603s] reading manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.604s] writing manifest file '../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.604s] running build
+[0.604s] running build_py
+[0.604s] creating /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build
+[0.604s] creating /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib
+[0.604s] creating /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/simple_service_server.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/simple_action_client.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/simple_service_client.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/simple_publisher.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/__init__.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/simple_parameter.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/simple_subscriber.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] copying arduinobot_py_examples/simple_action_server.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples
+[0.604s] running install
+[0.604s] running install_lib
+[0.605s] creating /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_service_server.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_action_client.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_service_client.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_publisher.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/__init__.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_parameter.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_subscriber.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.605s] copying /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build/lib/arduinobot_py_examples/simple_action_server.py -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples
+[0.606s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_service_server.py to simple_service_server.cpython-310.pyc
+[0.606s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_action_client.py to simple_action_client.cpython-310.pyc
+[0.606s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_service_client.py to simple_service_client.cpython-310.pyc
+[0.606s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_publisher.py to simple_publisher.cpython-310.pyc
+[0.606s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/__init__.py to __init__.cpython-310.pyc
+[0.607s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_parameter.py to simple_parameter.cpython-310.pyc
+[0.607s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_subscriber.py to simple_subscriber.cpython-310.pyc
+[0.607s] byte-compiling /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples/simple_action_server.py to simple_action_server.cpython-310.pyc
+[0.607s] running install_data
+[0.607s] creating /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/share/ament_index
+[0.607s] creating /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/share/ament_index/resource_index
+[0.607s] creating /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/share/ament_index/resource_index/packages
+[0.607s] copying resource/arduinobot_py_examples -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/share/ament_index/resource_index/packages
+[0.607s] copying package.xml -> /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/share/arduinobot_py_examples
+[0.607s] running install_egg_info
+[0.608s] Copying ../../build/arduinobot_py_examples/arduinobot_py_examples.egg-info to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot_py_examples-0.0.0-py3.10.egg-info
+[0.609s] running install_scripts
+[0.619s] Installing simple_action_client script to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.620s] Installing simple_action_server script to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.620s] Installing simple_parameter script to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.620s] Installing simple_publisher script to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.620s] Installing simple_service_client script to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.620s] Installing simple_service_server script to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.620s] Installing simple_subscriber script to /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.620s] writing list of installed files to '/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/install.log'
+[0.634s] Invoked command in '/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/src/arduinobot_py_examples' returned '0': AMENT_PREFIX_PATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:/home/keerthibaalan/ROS2_Workspace/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/arduinobot_py_examples build --build-base /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/build install --record /home/keerthibaalan/ROS2_Workspace/arduinobot_ws/build/arduinobot_py_examples/install.log --single-version-externally-managed install_data
