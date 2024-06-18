@@ -197,6 +197,43 @@ myworkcell_core_uninstall/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/myworkcell_core_uninstall.dir/build.make CMakeFiles/myworkcell_core_uninstall.dir/build
 .PHONY : myworkcell_core_uninstall/fast
 
+#=============================================================================
+# Target rules for targets named vision_node
+
+# Build rule for target.
+vision_node: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 vision_node
+.PHONY : vision_node
+
+# fast build rule for target.
+vision_node/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/vision_node.dir/build.make CMakeFiles/vision_node.dir/build
+.PHONY : vision_node/fast
+
+src/vision_node.o: src/vision_node.cpp.o
+.PHONY : src/vision_node.o
+
+# target to build an object file
+src/vision_node.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/vision_node.dir/build.make CMakeFiles/vision_node.dir/src/vision_node.cpp.o
+.PHONY : src/vision_node.cpp.o
+
+src/vision_node.i: src/vision_node.cpp.i
+.PHONY : src/vision_node.i
+
+# target to preprocess a source file
+src/vision_node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/vision_node.dir/build.make CMakeFiles/vision_node.dir/src/vision_node.cpp.i
+.PHONY : src/vision_node.cpp.i
+
+src/vision_node.s: src/vision_node.cpp.s
+.PHONY : src/vision_node.s
+
+# target to generate assembly for a file
+src/vision_node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/vision_node.dir/build.make CMakeFiles/vision_node.dir/src/vision_node.cpp.s
+.PHONY : src/vision_node.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -212,6 +249,10 @@ help:
 	@echo "... test"
 	@echo "... myworkcell_core_uninstall"
 	@echo "... uninstall"
+	@echo "... vision_node"
+	@echo "... src/vision_node.o"
+	@echo "... src/vision_node.i"
+	@echo "... src/vision_node.s"
 .PHONY : help
 
 

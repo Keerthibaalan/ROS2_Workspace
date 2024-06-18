@@ -1,3 +1,4 @@
+/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_core/lib/myworkcell_core/vision_node
 /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_core/share/ament_index/resource_index/package_run_dependencies/myworkcell_core
 /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_core/share/ament_index/resource_index/parent_prefix_path/myworkcell_core
 /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_core/share/myworkcell_core/environment/ament_prefix_path.sh
