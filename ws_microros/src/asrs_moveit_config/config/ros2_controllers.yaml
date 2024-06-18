@@ -8,7 +8,7 @@ controller_manager:
 
 
     asrs_gripper_controller:
-      type: position_controllers/GripperActionController
+      type: joint_trajectory_controller/JointTrajectoryController
 
 
     joint_state_broadcaster:
@@ -26,6 +26,14 @@ asrs_arm_controller:
     state_interfaces:
       - position
       - velocity
+    allow_nonzero_velocity_at_trajectory_end: true
 asrs_gripper_controller:
   ros__parameters:
-    joint: base_to_driver
+    joints:
+      - base_to_driver
+    command_interfaces:
+      - position
+    state_interfaces:
+      - position
+      - velocity
+    allow_nonzero_velocity_at_trajectory_end: true

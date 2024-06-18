@@ -18,7 +18,6 @@
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/launch/move_group.launch.py
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/launch/setup_assistant.launch.py
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/launch/spawn_controllers.launch.py
-/home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/launch/warehouse_db.launch.py
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/launch/rsp.launch.py
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/launch/static_virtual_joint_tfs.launch.py
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/config/initial_positions.yaml

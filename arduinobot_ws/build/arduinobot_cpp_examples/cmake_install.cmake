@@ -194,7 +194,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/arduinobot_cpp_examples/simple_moveit_interface")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/arduinobot_cpp_examples/simple_moveit_interface"
-         OLD_RPATH "/home/keerthibaalan/ws_moveit2/install/moveit_ros_planning_interface/lib:/home/keerthibaalan/ws_moveit2/install/moveit_ros_move_group/lib:/home/keerthibaalan/ws_moveit2/install/moveit_ros_warehouse/lib:/home/keerthibaalan/ws_moveit2/install/moveit_ros_planning/lib:/home/keerthibaalan/ws_moveit2/install/moveit_ros_occupancy_map_monitor/lib:/home/keerthibaalan/ws_moveit2/install/moveit_core/lib:/home/keerthibaalan/ws_moveit2/install/srdfdom/lib:/home/keerthibaalan/ws_moveit/install/moveit_msgs/lib:/opt/ros/humble/lib:/opt/ros/humble/lib/x86_64-linux-gnu:"
+         OLD_RPATH "/home/keerthibaalan/ws_moveit/install/moveit_ros_planning_interface/lib:/home/keerthibaalan/ws_moveit/install/moveit_ros_move_group/lib:/home/keerthibaalan/ws_moveit/install/moveit_core/lib:/home/keerthibaalan/ws_moveit/install/moveit_msgs/lib:/opt/ros/humble/lib:/home/keerthibaalan/ws_moveit/install/moveit_ros_warehouse/lib:/home/keerthibaalan/ws_moveit/install/moveit_ros_planning/lib:/home/keerthibaalan/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/arduinobot_cpp_examples/simple_moveit_interface")

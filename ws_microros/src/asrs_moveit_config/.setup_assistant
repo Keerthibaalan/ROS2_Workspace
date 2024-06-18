@@ -6,8 +6,8 @@ moveit_setup_assistant_config:
     relative_path: config/asrs_robot.srdf
   package_settings:
     author_name: ros
-    author_email: ros@todo.todo
-    generated_timestamp: 1706728717
+    author_email: ros@ros.com
+    generated_timestamp: 1718217318
   control_xacro:
     command:
       - position
