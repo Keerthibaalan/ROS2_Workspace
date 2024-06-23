@@ -1,0 +1,6 @@
+{
+  "package_name": "myworkcell_core",
+  "non_idl_tuples": [
+    "/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_core:srv/LocalizePart.srv"
+  ]
+}

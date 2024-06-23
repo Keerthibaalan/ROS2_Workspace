@@ -1,0 +1,13 @@
+[01m[K/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_core/src/myworkcell_node.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_core/src/myworkcell_node.cpp:60:5:[m[K [01;31m[Kerror: [m[K‘[01m[Krclpcpp[m[K’ has not been declared
+   60 |     [01;31m[Krclpcpp[m[K::shutdown();
+      |     [01;31m[K^~~~~~~[m[K
+[01m[K/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_core/src/vision_node.cpp:[m[K In member function ‘[01m[Kvoid Localizer::localizePart(myworkcell_core::srv::LocalizePart_Request_<std::allocator<void> >::SharedPtr, myworkcell_core::srv::LocalizePart_Response_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_core/src/vision_node.cpp:32:76:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreq[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   32 | ocalizePart([01;35m[Kmyworkcell_core::srv::LocalizePart::Request::SharedPtr req[m[K,
+      |             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+
+gmake[2]: *** [CMakeFiles/myworkcell_node.dir/build.make:76: CMakeFiles/myworkcell_node.dir/src/myworkcell_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:622: CMakeFiles/myworkcell_node.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2

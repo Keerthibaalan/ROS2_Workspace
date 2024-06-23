@@ -99,6 +99,7 @@ vision_node: /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_a
 vision_node: /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_ar_publisher/lib/libfake_ar_publisher__rosidl_typesupport_introspection_cpp.so
 vision_node: /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_ar_publisher/lib/libfake_ar_publisher__rosidl_typesupport_cpp.so
 vision_node: /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_ar_publisher/lib/libfake_ar_publisher__rosidl_generator_py.so
+vision_node: libmyworkcell_core__rosidl_typesupport_cpp.so
 vision_node: /opt/ros/humble/lib/liblibstatistics_collector.so
 vision_node: /opt/ros/humble/lib/librcl.so
 vision_node: /opt/ros/humble/lib/librmw_implementation.so
@@ -150,10 +151,6 @@ vision_node: /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_introspection_c
 vision_node: /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_introspection_cpp.so
 vision_node: /opt/ros/humble/lib/librosidl_typesupport_introspection_cpp.so
 vision_node: /opt/ros/humble/lib/librosidl_typesupport_introspection_c.so
-vision_node: /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_cpp.so
-vision_node: /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_cpp.so
-vision_node: /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_cpp.so
-vision_node: /opt/ros/humble/lib/librosidl_typesupport_cpp.so
 vision_node: /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_ar_publisher/lib/libfake_ar_publisher__rosidl_typesupport_c.so
 vision_node: /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_ar_publisher/lib/libfake_ar_publisher__rosidl_generator_c.so
 vision_node: /opt/ros/humble/lib/libgeometry_msgs__rosidl_generator_py.so
@@ -165,11 +162,15 @@ vision_node: /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_c.so
 vision_node: /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_c.so
 vision_node: /opt/ros/humble/lib/libstd_msgs__rosidl_generator_c.so
 vision_node: /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_generator_c.so
+vision_node: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+vision_node: /opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_cpp.so
+vision_node: /opt/ros/humble/lib/libstd_msgs__rosidl_typesupport_cpp.so
+vision_node: /opt/ros/humble/lib/libbuiltin_interfaces__rosidl_typesupport_cpp.so
+vision_node: /opt/ros/humble/lib/librosidl_typesupport_cpp.so
 vision_node: /opt/ros/humble/lib/librosidl_typesupport_c.so
 vision_node: /opt/ros/humble/lib/librcpputils.so
 vision_node: /opt/ros/humble/lib/librosidl_runtime_c.so
 vision_node: /opt/ros/humble/lib/librcutils.so
-vision_node: /usr/lib/x86_64-linux-gnu/libpython3.10.so
 vision_node: CMakeFiles/vision_node.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/build/myworkcell_core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable vision_node"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/vision_node.dir/link.txt --verbose=$(VERBOSE)
