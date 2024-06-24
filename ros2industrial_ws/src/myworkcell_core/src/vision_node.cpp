@@ -3,7 +3,7 @@
 **/
 #include <rclcpp/rclcpp.hpp>
 #include <fake_ar_publisher/msg/ar_marker.hpp>
- #include <myworkcell_core/srv/localize_part.hpp>
+#include <myworkcell_core/srv/localize_part.hpp>
 
 class Localizer : public rclcpp::Node
 {
