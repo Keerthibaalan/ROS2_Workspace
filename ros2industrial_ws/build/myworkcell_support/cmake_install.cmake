@@ -43,7 +43,10 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/myworkcell_support/" TYPE DIRECTORY FILES "/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_support/launch")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/myworkcell_support/" TYPE DIRECTORY FILES
+    "/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_support/launch"
+    "/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_support/urdf"
+    )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)

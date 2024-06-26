@@ -1,4 +1,6 @@
+/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_support/share/myworkcell_support//launch/urdf.launch.py
 /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_support/share/myworkcell_support//launch/workcell.launch.py
+/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_support/share/myworkcell_support//urdf/workcell.urdf.xacro
 /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_support/share/ament_index/resource_index/package_run_dependencies/myworkcell_support
 /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_support/share/ament_index/resource_index/parent_prefix_path/myworkcell_support
 /home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/myworkcell_support/share/myworkcell_support/environment/ament_prefix_path.sh
