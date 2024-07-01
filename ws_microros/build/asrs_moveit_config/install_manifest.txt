@@ -30,4 +30,5 @@
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/config/moveit_controllers.yaml
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/config/ros2_controllers.yaml
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/config/moveit.rviz
+/home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/config/ompl_planning.yaml
 /home/keerthibaalan/ROS2_Workspace/ws_microros/install/asrs_moveit_config/share/asrs_moveit_config/.setup_assistant

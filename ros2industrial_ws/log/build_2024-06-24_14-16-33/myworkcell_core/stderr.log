@@ -1,5 +1,0 @@
-[01m[K/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_core/src/vision_node.cpp:[m[K In member function ‘[01m[Kvoid Localizer::localizePart(myworkcell_core::srv::LocalizePart_Request_<std::allocator<void> >::SharedPtr, myworkcell_core::srv::LocalizePart_Response_<std::allocator<void> >::SharedPtr)[m[K’:
-[01m[K/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/src/myworkcell_core/src/vision_node.cpp:32:76:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kreq[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
-   32 | ocalizePart([01;35m[Kmyworkcell_core::srv::LocalizePart::Request::SharedPtr req[m[K,
-      |             [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
-

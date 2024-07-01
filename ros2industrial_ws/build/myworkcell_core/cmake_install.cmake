@@ -383,7 +383,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/myworkcell_core/vision_node")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/myworkcell_core/vision_node"
-         OLD_RPATH "/opt/ros/humble/lib:/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_ar_publisher/lib:/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/build/myworkcell_core:"
+         OLD_RPATH "/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/install/fake_ar_publisher/lib:/opt/ros/humble/lib:/home/keerthibaalan/ROS2_Workspace/ros2industrial_ws/build/myworkcell_core:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/myworkcell_core/vision_node")
